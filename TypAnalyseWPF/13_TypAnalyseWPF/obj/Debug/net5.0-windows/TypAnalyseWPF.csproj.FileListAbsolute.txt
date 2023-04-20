@@ -1,0 +1,92 @@
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.exe
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.deps.json
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.json
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.dev.json
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.dll
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.pdb
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.AssemblyReference.cache
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\App.g.cs
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.cache
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.lref
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.g.resources
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.GeneratedMSBuildEditorConfig.editorconfig
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfoInputs.cache
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfo.cs
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.CoreCompileInputs.cache
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.dll
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\refint\TypAnalyseWPF.dll
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.pdb
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.genruntimeconfig.cache
+H:\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\ref\TypAnalyseWPF.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.exe
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.deps.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.dev.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.pdb
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.AssemblyReference.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.lref
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.g.resources
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfoInputs.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfo.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.CoreCompileInputs.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\refint\TypAnalyseWPF.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.pdb
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.genruntimeconfig.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\ref\TypAnalyseWPF.dll
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.exe
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.deps.json
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.json
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.dev.json
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.dll
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.pdb
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.cache
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.lref
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.g.resources
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfo.cs
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.dll
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\refint\TypAnalyseWPF.dll
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.pdb
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.genruntimeconfig.cache
+C:\Users\user\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\13_TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\ref\TypAnalyseWPF.dll
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.exe
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.deps.json
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.json
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.runtimeconfig.dev.json
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.dll
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\bin\Debug\net5.0-windows\TypAnalyseWPF.pdb
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.AssemblyReference.cache
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\App.g.cs
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.cache
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF_MarkupCompile.lref
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.g.resources
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfoInputs.cache
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.AssemblyInfo.cs
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.csproj.CoreCompileInputs.cache
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.dll
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\refint\TypAnalyseWPF.dll
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.pdb
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\TypAnalyseWPF.genruntimeconfig.cache
+D:\GitHub-Repositorys\typ-analyse-wpf\TypAnalyseWPF\13_TypAnalyseWPF\obj\Debug\net5.0-windows\ref\TypAnalyseWPF.dll
